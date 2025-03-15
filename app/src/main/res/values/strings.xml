@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Roadside Assistance App</string>
+    <string name="register">Register</string>
+    <string name="lets_get_started">Let\'s Get Started</string>
+    <string name="create_an_account">create and account</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="or">or</string>
+    <string name="phone_number">Phone number</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="login">Login</string>
+    <string name="crown_farm_garage">Crown Farm Garage</string>
+    <string name="crown_farm_garage_address">10 Chaucer Street</string>
+    <string name="bath_lane_autos">Bath Lane Autos</string>
+    <string name="bath_lane_autos_address">Unit 4, Sutton Road</string>
+    <string name="top_notch_repairs">Top Notch Repairs</string>
+    <string name="top_notch_repairs_address">Snow House</string>
+    <string name="ace_motors">ACE Motors</string>
+    <string name="ace_motors_address">ACE House</string>
+    <string name="robin_hood_restore">Robin Hood Restore</string>
+    <string name="robin_hood_restore_address">Friar Tuck House</string>
+
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_name_5">Faye</string>
+    <string name="dog_name_6">Bella</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Tzeitel</string>
+    <string name="dog_name_9">Leroy</string>
+    <string name="dog_description_1">Eating treats on the terrace</string>
+    <string name="dog_description_2">Barking at Daddy</string>
+    <string name="dog_description_3">Stealing socks</string>
+    <string name="dog_description_4">Meeting new animals</string>
+    <string name="dog_description_5">Digging in the garden</string>
+    <string name="dog_description_6">Chasing sea foam</string>
+    <string name="dog_description_7">Bothering her paw-rents</string>
+    <string name="dog_description_8">Sunbathing</string>
+    <string name="dog_description_9">Sleeping in dangerous places</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a mechanic.</string>
+</resources>
