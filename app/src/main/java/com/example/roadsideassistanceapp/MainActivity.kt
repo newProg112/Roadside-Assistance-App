@@ -37,6 +37,36 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+
+    override fun onStart() {
+        super.onStart()
+        Log.d(TAG, "onStart Called")
+    }
+
+    override fun onResume() {
+        super.onResume()
+        Log.d(com.example.roadsideassistanceapp.TAG, "onResume Called")
+    }
+
+    override fun onRestart() {
+        super.onRestart()
+        Log.d(com.example.roadsideassistanceapp.TAG, "onRestart Called")
+    }
+
+    override fun onPause() {
+        super.onPause()
+        Log.d(TAG, "onPause Called")
+    }
+
+    override fun onStop() {
+        super.onStop()
+        Log.d(TAG, "onStop Called")
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        Log.d(TAG, "onDestroy Called")
+    }
 }
 
 @Composable
